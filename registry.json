@@ -5403,5 +5403,19 @@
     "telegram": "caikejungle",
     "operatorName": "Carlos Souza",
     "github": "wowica"
+  },
+   {
+    "ticker": "BIRTH",
+    "poolId": "7e0bf8d9e2a3c8b5d6c3b272bf3a287058569660afad62e704562895",
+    "social": {
+      "website": "https://larissa.health",
+      "twitter": "larissa_health",
+      "facebook": "larissahealth.org",
+      "instagram": "larissa.health",
+      "youtube": "@larissa.health"
+    },
+    "telegram": "larissa_health",
+    "operatorName": "Larissa.Health",
+    "github": "Larissa-Health"
   }
 ]
